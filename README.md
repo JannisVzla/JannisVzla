@@ -53,7 +53,7 @@
 
 📈 <h4>MY STATS:</h4>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JannisVzla&theme=submarine-flowers&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JannisVzla&theme=submarine-flowers&hide_border=true)
 
 ![Skekchek GitHub stats](https://github-readme-stats.vercel.app/api?username=JannisVzla)
 
