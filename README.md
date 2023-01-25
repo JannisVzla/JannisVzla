@@ -60,3 +60,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JannisVzla)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannisVzla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/JannisVzla/JannisVzla/blob/output/github-contribution-grid-snake.gif)
